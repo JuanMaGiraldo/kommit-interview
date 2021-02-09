@@ -1,5 +1,3 @@
-const { S_IFREG } = require("constants");
-
 tanks = ["A", "B", "C", "D"];
 capacity = [10, 25, 30, 53];
 pipelines = [
